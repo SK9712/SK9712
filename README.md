@@ -32,9 +32,13 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats (Java-Focused)  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SK9712&show_icons=true&theme=radical" alt="SK9712 GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK9712&layout=compact&langs_count=6&theme=radical&hide=css,html,javascript" alt="Most Used Languages (Java-Focused)" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SK9712&show_icons=true&theme=radical&count_private=true&hide=stars,issues" alt="SK9712 GitHub Stats" />
 </p>
 
 <p align="center">
