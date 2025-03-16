@@ -1,8 +1,8 @@
 # 🚀 Hey, I'm Sushant Kumar! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/SK9712?label=Follow&style=social)](https://github.com/SK9712)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-kumar-9712/)](https://www.linkedin.com/in/sk9712/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white&link=https://deduxt.com)](https://deduxt.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sk9712/)](https://www.linkedin.com/in/sk9712/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white)]
 
 ## 💡 About Me  
 I am a **Full-Stack Java Developer** passionate about **system design, security, databases, and AI-driven solutions**.  
