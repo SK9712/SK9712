@@ -1,7 +1,7 @@
 # 🚀 Hey, I'm Sushant Kumar! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/SK9712?label=Follow&style=social)](https://github.com/SK9712)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-kumar-9712/)](https://www.linkedin.com/in/sushant-kumar-9712/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-kumar-9712/)](https://www.linkedin.com/in/sk9712/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white&link=https://deduxt.com)](https://deduxt.com)
 
 ## 💡 About Me  
@@ -69,9 +69,9 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 ---
 
 ## 🔥 Let's Connect!  
-📜 **Medium Articles:** [Sushant Kumar on Medium](https://medium.com/@sushantkumar)  
-🐦 **Twitter:** [@sushantkumar_](https://twitter.com/sushantkumar_)  
-📧 **Email:** [sushantkumar.dev@gmail.com](mailto:sushantkumar.dev@gmail.com)  
+📜 **Medium Articles:** [Sushant Kumar on Medium](https://medium.com/@caveman9712)  
+🐦 **LinkedIn:** [@sushantkumar_](https://www.linkedin.com/in/sk9712/)  
+📧 **Email:** [susk1297@gmail.com](mailto:susk1297@gmail.com)  
 
 ---
 
