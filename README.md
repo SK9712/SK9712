@@ -1,50 +1,74 @@
-# 👋 Hi there, I'm Sushant Kumar
+# 🚀 Hey, I'm Sushant Kumar! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter: yourusername](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![GitHub followers](https://img.shields.io/github/followers/SK9712?label=Follow&style=social)](https://github.com/SK9712)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-kumar-9712/)](https://www.linkedin.com/in/sushant-kumar-9712/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white&link=https://deduxt.com)](https://deduxt.com)
 
-## 💫 About Me
-Software developer passionate about building impactful applications. I enjoy solving complex problems and learning new technologies.
+## 💡 About Me  
+I am a **Full-Stack Java Developer** passionate about **system design, security, databases, and AI-driven solutions**.  
 
-- 🔭 I'm currently working on **[Project Name](https://github.com/yourusername/projectname)**
-- 🌱 I'm currently learning **Technology/Framework**
-- 👯 I'm looking to collaborate on **interesting open source projects**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **youremail@example.com**
+🔹 **Security Enthusiast:** Exploring **SAML2 authentication, security vulnerabilities, and AI-driven URL threat detection**.  
+🔹 **Database Nerd:** Architected **PlotArmorDB**, focusing on high resilience and optimized queries.  
+🔹 **Building Smarter Software:** Created **Smart Parameter Plugin** for better configuration management.  
+🔹 **Writer at Heart:** Sharing insights on **Java, performance tuning, security, and distributed systems**.  
 
-## 🚀 Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <!-- Add more skills icons as needed -->
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
-</p>
-
-## 🏆 Top Repositories
-<a href="https://github.com/yourusername/repository1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository1&theme=radical" />
-</a>
-<a href="https://github.com/yourusername/repository2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository2&theme=radical" />
-</a>
-
-## 🐍 Contribution Graph
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+📌 I believe in **"Code that scales and architecture that evolves."**  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+## 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
 </p>
+
+🔹 **Love Working With:** JVM performance tuning, Kafka, distributed systems  
+🔹 **Exploring:** Bug bounty, AI-driven security, advanced Java optimizations  
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SK9712&show_icons=true&theme=radical" alt="SK9712 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SK9712&theme=radical" alt="SK9712 GitHub Streak" />
+</p>
+
+---
+
+## 🚀 Featured Repositories  
+<p align="left">
+  <a href="https://github.com/SK9712/detecting-malicious-url-using-character-level-cnn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=detecting-malicious-url-using-character-level-cnn&theme=radical" />
+  </a>
+  <a href="https://github.com/SK9712/saml2-authentication-service-keycloak">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=saml2-authentication-service-keycloak&theme=radical" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/SK9712/plotarmordb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=plotarmordb&theme=radical" />
+  </a>
+  <a href="https://github.com/SK9712/smart-parameter-plugin">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=smart-parameter-plugin&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 🔥 Let's Connect!  
+📜 **Medium Articles:** [Sushant Kumar on Medium](https://medium.com/@sushantkumar)  
+🐦 **Twitter:** [@sushantkumar_](https://twitter.com/sushantkumar_)  
+📧 **Email:** [sushantkumar.dev@gmail.com](mailto:sushantkumar.dev@gmail.com)  
+
+---
+
+🔹 _"Building scalable systems, one commit at a time!"_ 🚀  
