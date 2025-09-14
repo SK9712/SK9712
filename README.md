@@ -57,6 +57,9 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 </p>
 
 <p align="left">
+  <a href="https://github.com/SK9712/langgraph4j">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=langgraph4j&theme=radical" />
+  </a>
   <a href="https://github.com/SK9712/smart-parameter-plugin">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=smart-parameter-plugin&theme=radical" />
   </a>
